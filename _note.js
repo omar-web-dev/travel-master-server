@@ -33,3 +33,11 @@
 // app.get('/hotels', (req, res) => {
 //     res.send(require('./data/hotels.json'))
 //   })
+
+////////////////// step 05 \\\\\\\\\\\\\\\\\\\\\\\\\
+// -------------upload your data -----------------
+//1. vercel (and answer) // .......yeah upload your site
+
+////////////////// step 06 \\\\\\\\\\\\\\\\\\\\\\\\\
+//--------------- update server --------------\\
+// vercel --pord

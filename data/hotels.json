@@ -2,5 +2,9 @@
     {
         "id" : "01",
         "name" : "Cox's Bazar"
+    },
+    {
+        "id" : "02",
+        "name" : "Nijom Drip"
     }
 ]
